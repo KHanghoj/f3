@@ -1,4 +1,4 @@
-# f3
+# f3-outgroup
 
 Assumes outgroup sample is included in the beagle file.
 
